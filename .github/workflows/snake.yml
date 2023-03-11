@@ -11,6 +11,13 @@ on:
     - main
 
 jobs:
+  debug:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print
+        run: env | sort
+
   generate:
     runs-on: ubuntu-latest
 
