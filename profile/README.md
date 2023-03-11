@@ -9,11 +9,10 @@ Organización de GitHub de las cátedras Programación 1 y Programación 2 de la
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <img height="150" src="https://media.tenor.com/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif"  />
 
 
+###
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=UNRa" height="150" alt="languages graph"  />
+![snake gif](https://github.com/UNRaf-PROGRAMACION/.github/blob/output/github-contribution-grid-snake.gif) <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=UNRa" height="150" alt="languages graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/UNRaf-PROGRAMACION/UNRaf-PROGRAMACION/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
